@@ -9,7 +9,7 @@ date: 2016-05-14
 labels:
   - Adobe PhotoShop
   - Adobe Illustrator
-summary: Freelance design work made Adobe Creative Cloud software.
+summary: Freelance design work made with Adobe Creative Cloud software.
 ---
 <img class="centered" src="../images/logo2.png">
 
