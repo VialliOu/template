@@ -14,9 +14,13 @@ summary: A program that applies Huffman encoding to a text file as a lossless da
 
 <img class="centered" src="../images/huffman2.png">
 
-Huffman coding is a lossless data compression algorithm. The idea is to assign codes to input characters. The lengths of the assigned codes are based on the frequencies of corresponding characters. The most frequent character gets the smallest code and the least frequent character gets the largest code.
+Huffman coding is a lossless data compression algorithm. The idea is to assign codes to input characters. The most commonplace characters gets the smallest code and the least frequent character gets the biggest code. The length of the codes are based on the frequencies of  the characters.
 
-The two major parts in Huffman Encoding is building a tree from input characters and traversing that tree and assigning code to those characters. This is a project I did in my java that gave me a good understanding of nodes, tree traversal, and a very basic understanding of compression. 
+There are two major parts in this project. One is being able to build a tree of characters that are the input. Then you have to traverse the tree and assign corresponding codes to those characters. 
+
+What I learned was mainly how nodes work and tree traversal. I also got a very basic understanding of how compression works. I was so fascinated by the fact that something so simple could be so effective and started to wonder what the upper limits of compressions algorithims were and if there are diminishing returns. 
+
+
 
 Source: <a href="https://github.com/vialliou/huffman"><i class="large github icon "></i>vialliou/huffman</a>
 
