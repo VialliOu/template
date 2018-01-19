@@ -8,7 +8,7 @@ permalink: projects/huffman
 date: 2014-04-12
 labels:
   - Java
-summary: A program that applies Huffman coding as a lossless data compression algorithm.
+summary: A program that applies Huffman encoding to a text file as a lossless data compression algorithm.
 ---
 
 <img class="centered" src="../images/huffman2.png">
