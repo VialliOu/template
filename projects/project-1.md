@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/Pong.png
-title: Pong with Logisim
+image: images/pong.png
+title: Pong in Assembly
 permalink: projects/pong
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-01
@@ -10,10 +10,11 @@ labels:
   - MIPS
   - DLX
   - Logisim
+  - Assembly
 summary: Recreation of the game Pong with the DLX instruction set and Logisim for hardware simulation.
 ---
 
-<div class="ui small rounded images">
+<div class="centered">
   <img class="ui image" src="../images/ALU.png">
 </div>
 
