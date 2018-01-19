@@ -24,4 +24,3 @@ In my verson of Pong that I made, it is single player only. This means that ther
 
 This was built using Logisim and Mars. Logisim is a tool for designing and simulating digital logic circuits and Mars is an IDE for programming in MIPS assembly language. I had build a CPU with many different compenents like the ALU and control unit so that my code from assembly could be translated to work with the simulated hardware. 
 
-Source: <a href="https://github.com/vialliou/pong"><i class="large github icon "></i>vialliou/pong</a>
