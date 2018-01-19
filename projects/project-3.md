@@ -11,7 +11,7 @@ labels:
 summary: A program that applies Huffman coding as a lossless data compression algorithm.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="centered" src="../images/huffman2.png">
 
 Huffman coding is a lossless data compression algorithm. The idea is to assign codes to input characters. The lengths of the assigned codes are based on the frequencies of corresponding characters. The most frequent character gets the smallest code and the least frequent character gets the largest code.
 
