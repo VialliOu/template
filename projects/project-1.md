@@ -1,16 +1,14 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/tetris.png
+title: Tetris
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - MIPS
+summary: The game tetris I developed in with the DLX instruction set and Logisim hardware simulation software.
 ---
 
 <div class="ui small rounded images">
