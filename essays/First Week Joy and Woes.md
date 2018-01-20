@@ -6,6 +6,7 @@ title: First Week Joys and Woes
 date: 2018-01-19
 labels:
   - Javascript
+  - WOD
 ---
 
 This past week working with javascript has been interesting to say the least. It's been a few semesters where I had to use a language like this and that time has not been kind to me. I realized that I need start coding more for practice in my free time. The past few classes I've taken, have been classes that were mainly book work. I feel as if I have forgotten a lot of what I learned from those early java, c, and c++, classes. I find myself making a lot of little mistakes like missing semicolons at the end of statments.
