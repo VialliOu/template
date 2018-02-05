@@ -6,6 +6,7 @@ title: Inquiry-Based Learning
 date: 2018-01-25
 labels:
   - Stack Overflow
+  - Asking Questions
 ---
 
 In this day and age, the immediate access to information is wonderful. You can typically find what you need in a few clicks of the mouse. The answers you are seeking for is all right there on the internet. But how do you get to those answers? The first step would be asking the right questions. Without that you are stuck with an inadequate answers no matter where you look. There are tips you can follow that will increase the likelyhood you'll find a satisfactory answer. 
