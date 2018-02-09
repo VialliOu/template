@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Ambitions as a Programmer
+title: Industry Standards
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-08
 labels:
