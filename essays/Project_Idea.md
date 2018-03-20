@@ -11,7 +11,7 @@ labels:
 
 I am working with Barry Abe on this project idea. 
 
-Overview: 
+Overview:
 The problem: Many college students don't know the location of vending machines and what they store. This means that many students end up making a commute in a search for their favorite snack all to be let down. Sometimes students do not even know the location of the nearest vednign machine and visit what is familiar.
 The solution: An app with the location of all vending machines and its inventory. 
 
