@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Common Occuring Problems
+title: Occuring Problems
 # All dates must be YYYY-MM-DD format!
 date: 2018-5-1
 labels:
